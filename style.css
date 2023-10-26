@@ -4,13 +4,13 @@ body {
 
 #title {
     text-align: center;
-    font-size: 4rem;
+    font-size: 3rem;
     color: #fff;
 }
 
 #container {
     height: 100vh;
-    padding: 2rem;
+    padding: 1.75rem;
     background-color: rgb(5, 199, 5);
     display: flex;
     flex-direction: column;
